@@ -1,0 +1,13 @@
+.flexH{
+    display: flex;
+    flex-wrap: wrap;
+    div{
+        margin-right: 25px;
+    }
+
+}
+
+.flexV{
+    display: flex;
+    flex-direction: column;
+}

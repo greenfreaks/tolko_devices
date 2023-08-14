@@ -1,0 +1,25 @@
+Usuario,Identificador de la ubicación,Índice del Área,Puesto,Nombre del equipo,Identificador del Estatus del equipo,Identificador del tipo de equipo,Fecha de adquisición,Vida útil (meses),MARCA,MODELO,Procesador,RAM,Disco Duro,No. de serie,No. de inventario,Precio(MXN),Precio letra,Fecha de último mantenimiento,Fecha en que se otorgó al usuario,Observaciones
+Adonis Ikeya Becerra Pareja,2,6,Ejecutivo de Titulación,TESORERIA,1,1,17/05/2018,51,DELL,Dell Optiplex 3050,Intel Core i5,8 Gb,1 Tb,2WXX7N2,SIN INVENTARIO,"15,500",Quince Mil Quinientos Pesos M.N.,,,
+Alexis Daniel Osorio Monroy,2,7,Auxiliar de Mercadotecnia,EJECUTIVO2,1,1,10/07/2020,25,DELL,Dell Optiplex 3050,Intel Core i7,16 Gb,1 Tb,F51GN23,MKT-0003,"23,700",Veintitrés Mil Setecientos Pesos M.N.,,,
+Cristian Catalán Monzalvo,2,7,Auxiliar de Mercadotecnia,MKT2,1,1,10/07/2020,25,DELL,Dell Optiplex 390,Intel Core i7,16 Gb,1 Tb,F4YPN23,SIN INVENTARIO,"23,700",Veintitrés Mil Setecientos Pesos M.N.,,,
+David Tapia Hernandez,2,1,Becario de Costos y Presuspuestos,ANACON3,1,1,10/08/2020,24,DELL,Dell Optiplex 3040,Intel Core i5,8 Gb,500 Gb,GT19SD2,ADM-FIN-0002,"8,000",Ocho Mil Pesos M.N.,,,
+Dayna Natziely Mendoza Dimas,2,1,ANALISTA DE TESORERIA,AUXRH3,1,1,17/05/2018,51,DELL,Dell Optiplex 3040,Intel Core i5,16GB,1 Tb,H2PSHN2,ADM-FIN-0005,"15,500",Quince Mil Quinientos Pesos M.N.,,,
+Diana Laura Martínez Santiago,2,6,Ejecutivo de Titulación,COMPRAS,1,1,17/05/2018,51,DELL,Dell Optiplex 3050,Intel Core i5,8 Gb,1 Tb,7ZCZ8N2,ADM-TITULACION-0005,"15,500",Quince Mil Quinientos Pesos M.N.,,,
+Elva Aguirre Lopez,2,7,Gerente de Mercadotecnia,EJECUTIVO3,1,1,,,DELL,Dell Optiplex 3050,Intel Core i5,4 Gb,500 Gb,H5JY7V1,SIN INVENTARIO,"4,000",Cuatro Mil Pesos M.N.,,,
+ELVIRA JUDITH VAZQUEZ GUZMAN,2,1,Analista Contable,EJECUTIVO5,1,1,10/08/2020,24,DELL,Dell Optiplex 3020,Intel Core i5,8 Gb,500 Gb,GT24SD2,ADM-FIN-0003,"8,000",Ocho Mil Pesos M.N.,,,
+ESTEFANIA ALVAREZ LIZAMA,2,8,Auxiliar de Reclutamiento,AUXCOSTOS,1,1,10/08/2020,24,DELL,Dell Optiplex 3050,Intel Core i5,8 Gb,500 Gb,GSZ4SD2,SIN INVENTARIO,"8,000",Ocho Mil Pesos M.N.,,,
+Francisco Javier Carrillo García,2,1,Auxiliar de Compras,MENSAJERIA,1,1,17/05/2018,51,DELL,Compaq CQ1500LA,Intel Core i5,8 Gb,1 Tb,J07VGM2,SIN INVENTARIO,"15,500",Quince Mil Quinientos Pesos M.N.,,,
+Francisco Ricardo de Jesus Valladores Garcia ,2,6,Ejecutivo de Titulación,ASIS-DIR,1,1,17/05/2018,51,DELL,Dell Optiplex 3050,Intel Core i5,8 Gb,1 Tb,HZZTSM2,ADM-TITULACION-0007,"15,500",Quince Mil Quinientos Pesos M.N.,,,
+Gabriela Torres Romero,2,6,Ejecutivo de Titulación,DESKTOP-1007VR3,1,1,23/11/2014,92,DELL,Dell Optiplex 3050,Intel Core i5,8GB,1 Tb,2PQ1N22,ADM-TITULACION-0011,"8,000",Ocho Mil Pesos M.N.,,,cambio por modelo 
+Irving Gabriel Abrego Durán,2,1,Auxiliar Costos y Presupuestos,ANACON2,1,1,17/05/2018,51,DELL,Dell Optiplex 3050,Intel Core i5,8 Gb,1 Tb,H1RY7N2,ADM-FIN-0001,"15,500",Quince Mil Quinientos Pesos M.N.,,,
+Israel Lucas Ángeles,2,6,Mensajero,Gestoria,1,1,28/05/2015,86,COMPAQ,Dell Optiplex 3020,Intel Atom D510,1 Gb,250 Gb,3CR1030JVL,ADM-TITULACION-0009,"1,000",Un Mil Pesos M.N.,,,cambio por modelo 
+JULIETA BADOVINOS CARRENO,2,10,Asistente de Dirección General,CXC,1,1,17/05/2018,51,DELL,Dell Optiplex 3050,Intel Core i5,8 Gb,1 Tb,H2NQHN2,SIN INVENTARIO,"15,500",Quince Mil Quinientos Pesos M.N.,,,
+JULIETA BADOVINOS CARRENO,2,10,Asistente de Dirección General,EJECUTIVO1,1,1,,,DELL,Dell Optiplex 3050,INTEL CORE I5,4GB,500GB,H5MK7V1,,???,???,,,
+Karina Flores Rivera,2,1,Analista Contable,ANACON1,1,1,17/05/2018,51,DELL,Dell Optiplex 3050,Intel Core i5,8 Gb,1 Tb,J02VGM2,ADM-FIN-0009,"15,500",Quince Mil Quinientos Pesos M.N.,,,
+Katiusha Gabriela Flores Gonzalez,2,6,Gestor de Originación Hipotecaria,ccpm,1,1,23/11/2014,92,DELL,Dell Optiplex 390,Intel Core i5,4 Gb,500gb,2PM0N22,ADM-TITULACION-0013,"8,000",Ocho Mil Pesos M.N.,,,cambio por modelo 
+María de los Ángeles Carbajal Reyes,2,1,Ejecutivo de Cuentas por Cobrar,AuxTramites,1,1,17/05/2018,51,DELL,Dell Optiplex 3050,Intel Core i5,8 Gb,1 Tb,H2F58N2,SIN INVENTARIO,"15,500",Quince Mil Quinientos Pesos M.N.,,,
+Oscar Rivero Sánchez,2,6,Ejecutivo de Titulación,EJECUTIVO06,1,1,17/05/2018,51,DELL,Dell Optiplex 390,Intel Core i5,8 Gb,1 Tb,J0479M2,ADM-TITULACION-0002,"15,500",Quince Mil Quinientos Pesos M.N.,,,
+Salvador Vargas Rodriguez ,2,1,Analista Contable,,1,1,17/05/2018,51,DELL,,Intel Core i5,8 Gb,1 Tb,J0989M2,ADM-FIN-0004,"15,500",Quince Mil Quinientos Pesos M.N.,,,
+SERGIO REYES HERNANDEZ,2,1,COORDINADOR CONTABLE,,1,1,,,DELL,,Intel Core i5,8GB,500 Gb,2V92M22,COM-0008,"4,000",Cuatro Mil Pesos M.N.,,,
+Tania Alejandra Ramírez Soria,2,5,Auxiliar de Tramitología,,1,1,17/05/2018,51,DELL,,Intel Core i5,8 Gb,1 Tb,H2L38N2,RIN-0002,"15,500",Quince Mil Quinientos Pesos M.N.,,,
+Victoria Francisco Nicolás,2,6,Ejecutivo de Titulación,,1,1,,,,,Intel Core i5,12GB,500 Gb,JXYJ7V1,SIN INVENTARIO,"4,000",Cuatro Mil Pesos M.N.,,,

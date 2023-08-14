@@ -1,0 +1,30 @@
+Usuario,Identificador de la ubicación,Índice del Área,Puesto,Nombre del equipo,Identificador del Estatus del equipo,Identificador del tipo de equipo,Fecha de adquisición,Vida útil (meses),Identificador de la marca,Identificador del modelo,Procesador,RAM,Disco Duro,No. de serie,No. de inventario,Precio(MXN),Precio letra,Fecha de último mantenimiento,Fecha en que se otorgó al usuario,Observaciones
+Alberto Garcia Lopez,1,8,Becario de Proyectos,DESKTOP-TA5FL3B,1,3,,48,1,4,Intel Core i5,6 Gb,1 Tb,2CX54C2,COM-0003,13,Trece Mil Pesos M.N.,0000-00-00,,Falla en batería
+Sistema,1,2,Disponible,DESKTOP-TA5FL3B,1,3,,48,1,4,Intel Core i5,6 Gb,1 Tb,2CX54C2,COM-0003,13,Trece Mil Pesos M.N.,0000-00-01,,Falla en batería
+Cesar Angeles Leyva,2,2,Topógrafo,RESIDENTE7,1,3,,48,1,3,Intel Core i7,8 Gb,1 Tb,DJVBLJ2,SIN INVENTARIO,13.75,Trece Mil Setecientos Cincuenta Pesos M.N.,0000-00-02,,
+ariana hernandez rivera,1,2,Coordinador de Postventa,GTE-POSTVENTA,1,3,,48,1,3,Intel Core i3,6 Gb,1 Tb,6CGK2F2,SIN INVENTARIO,4.5,Cuatro Mil Quinientos Pesos M.N.,0000-00-03,,
+MARIO SANDOVAL VELAZQUEZ,1,4,Programador analista,DirGral,1,3,,48,1,3,Intel Core i7,8 Gb,2 Tb,1TC2FP2,SIN INVENTARIO,16.378,Dieciséis Mil Trescientos Setenta y Ocho Pesos M.N.,0000-00-04,,
+Rogelio Islas Gonzalez,1,4,Jefe de Personal,JEFEDEPERSONAL,1,3,,48,1,13,Intel Core i7,8 Gb,1 Tb,2HZS502,OBR-PRO-0001,12,Doce Mil Pesos M.N.,0000-00-05,,Falla en batería
+Oscar Marcel Jimenez Monroy,1,3,Capacitador,CAPACITACION,1,3,,48,1,13,Intel Core i7,8 Gb,1 Tb,B3SCX32,COM-0021,1.5,Mil Quinientos Pesos M.N.,0000-00-06,,Esquina inferior rota
+Mario Pineda Cazares,1,3,Jefe de Presupuestos y Control de Obra,GTE-PRESUPUESTOS,1,3,,48,1,15,Intel Core i7,8 Gb,2 Tb,BBY9242,ADM-FIN-0027,15,Quince Mil Pesos M.N.,0000-00-07,,
+Sistema,1,3,Disponible,GARANTIAS,1,3,,48,1,15,Intel Core i5,8 Gb,1 Tb,JGQCB12,SIN INVENTARIO,6.5,Seis Mil Quinientos Pesos M.N.,0000-00-08,,Falla en batería
+,1,3,,GTE-POSTVENTA1,1,3,,48,1,15,Intel Core i5,4 Gb,1 Tb,2HQCB12,COM-0002,3,Tres Mil Pesos M.N.,0000-00-09,,"Falla en batería, Falla en Display"
+Diego Abraham Medina Plata,2,6,Analista de Reclutamiento,recursos humanos,1,3,,48,1,16,Intel Core i7,6 Gb,1 Tb,1WZXVF2,ADM-FIN-0003,16.016,Dieciséis Mil Dieciséis Pesos M.N.,0000-00-10,,Falla en batería
+Ismael Banderas Peñaloza,2,2,Director General,DIR-GRAL,1,3,,48,1,17,Intel Core i5,8 Gb,1 Tb,G3GKLG3,SIN INVENTARIO,"25,913",Veinticinco Mil Novecientos Trece Pesos M.N.,0000-00-11,,
+NORMA THALIA URIBE SANCHEZ,2,1,Coordinador de Ventas,ccordinacion 4,1,3,,48,1,18,Intel Core i5,8 Gb,1 Tb,B2T8SG3,SIN INVENTARIO,"25,913",Veinticinco Mil Novecientos Trece Pesos M.N.,0000-00-12,,
+Mirna Mirna Patricia Muñoz Mimendi,1,8,subdirectora,subdirectora,1,3,,48,1,18,Intel Core i5,8 GB,1 TB,GTM4BG3,SIN INVENTARIO,26,Veinticinco Mil Novecientos Trece Pesos M.N.,0000-00-13,,
+Alberto García Lopez,2,1,Becario de Proyectos,PROYECTOS,1,3,,48,1,19,Intel Core i7,16 Gb,240 Gb,3NQT433,OBR-PRO-0003,28.8,Veintiocho Mil Ochocientos Pesos M.N.,0000-00-14,,
+David Vargas Estrella,2,1,Residente de Edificación,GARANTIAS,1,3,,48,1,20,Intel Core i7,16 Gb,500Gb,MHJM,SIN INVENTARIO,6.5,Seis Mil Quinientos Pesos M.N.,0000-00-15,,Falla en batería
+Ricardo Martínez Arratia,2,10,Residente de Proyectos,PROYECTOS,1,3,,48,1,20,Intel Core i7,16 Gb,500Gb,HJMHJMH,SIN INVENTARIO,28.8,Veintiocho Mil Ochocientos Pesos M.N.,0000-00-16,,
+Roman Oscar Avila Vargas,2,5,Gerente de Construcción,GTE-OBRA,1,3,,48,1,21,Intel Core i5,8 Gb,1 Tb,4DP6MJ2,SIN INVENTARIO,15.8,Quince Mil Ochocientos Pesos M.N.,0000-00-17,,
+Blanca Estela Reyes Abrego,2,2,Jefe de Titulación,GTE-TITULACION,1,3,,48,1,21,Intel Core i5,8 Gb,1 Tb,76P6MJ2,ADM-TITULACION-0016,15.8,Quince Mil Ochocientos Pesos M.N.,0000-00-18,,
+Gerardo Lopez González,2,17,Coordinador Administrativo,COORD-ADM,1,3,,48,1,22,Intel Core i7,8 Gb,700 Gb,3SRW002,RIN-0003,8.5,Ocho Mil Quinientos Pesos M.N.,0000-00-19,,Falla en batería
+Jose Luis Martin Ibáñez Paez,2,8,Coordinador de Ventas,Coordinación 1,1,3,,48,1,23,Intel Core i5,8 Gb,1 Tb,5CG9272TZO,SIN INVENTARIO,15,Quince Mil Pesos M.N.,0000-00-20,,
+Eduardo Aguado Armendariz,2,8,Coordinador de Ventas,Coordinación 2,1,3,,48,1,23,Intel Core i5,8 Gb,1 Tb,5CG9272V8G,SIN INVENTARIO,15,Quince Mil Pesos M.N.,0000-00-21,,
+Gabriela patrica trejo,2,8,Coordinador de Ventas,Coordinación 3,1,3,,48,1,23,Intel Core i5,8 Gb,1 Tb,5CG9272T6X,SIN INVENTARIO,15,Quince Mil Pesos M.N.,0000-00-22,,
+Araceli hernandez,2,10,Coordinador de Postventa,GTE-POSTVENTA2,1,3,,48,1,24,Intel Core i7,8 Gb,1 Tb,CND93036MD,SIN INVENTARIO,14.146,Catorce Mil Ciento Cuarenta y Seis Pesos M.N,0000-00-23,,
+Sergio reyes,1,3,Coordinador Contable,CORDCONT,1,3,,48,1,24,Intel Core i7,8 Gb,1 Tb,CND0129K5K,ADM-FIN-0007,20.4,Veinte Mil Cuatrocientos Pesos M.N.,0000-00-24,,
+Christian Vargas Gomez,1,3,Auxiliar de Tramitólogía,TRAMITES1,1,3,,48,1,24,Intel Core i7,8 Gb,1 Tb,CND93036XS,RIN-0004,20.4,Veinte Mil Cuatrocientos Pesos M.N.,0000-00-25,,
+sistemas,2,2,sistemas,BECA-DIR,1,3,,48,1,25,Intel Core i5,8 Gb,700 Gb,6D373431Q,DIRGRAL-0001,4.5,Cuatro Mil Quinientos Pesos M.N.,0000-00-26,,Falla en batería
+Pedro Aguilar Perez,1,2,Auxiliar de Reclutamiento y seleccion ,DESKTOP-TB978LO,1,3,,48,1,25,Intel Core i5,4 Gb,700 Gb,6DR7382Q,COM-0026,4.5,Cuatro Mil Quinientos Pesos M.N.,0000-00-27,,
+Oscar Marcel Jimenez Monroy,2,2,Capacitador,CAPACITACION,1,3,,48,1,26,Intel Pentium Dual-Core T4200,3 Gb,320 Gb,792242430,COM-0070,3,Tres Mil Pesos M.N.,0000-00-28,,Equipo deteriorado por uso

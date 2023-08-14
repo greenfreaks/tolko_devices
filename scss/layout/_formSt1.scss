@@ -1,0 +1,13 @@
+.formStOne{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    .form__item{
+        margin-right: 25px;
+    }
+}
+@media screen and (max-width: 480px){
+    .formStOne{
+        justify-content: space-evenly;
+    }
+}

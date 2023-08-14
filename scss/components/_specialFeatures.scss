@@ -1,0 +1,59 @@
+/* Special features */
+.boxShadow{
+    box-shadow: 0 0 10px 2px #aaa8a8;
+}
+.rounded{
+    border-radius: 50px;
+}
+.semiRounded{
+    border-radius: 10px;
+}
+.space{
+    padding-top: 30px;
+}
+.line{
+    display: block;
+}
+.noList{
+    list-style: none;
+}
+.noDecoration{
+    text-decoration: none;
+}
+
+.pointer{
+    cursor: pointer
+}
+
+.roundedImg{
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+
+.alignCenter{
+    align-self: center;
+}
+.alignLeft{
+    align-self: left;
+}
+.alignRight{
+    align-self: right;
+}
+
+.justifyCenter{
+    justify-self: center;
+}
+.justifyStart{
+    justify-self: start;
+}
+.justifyEnd{
+    justify-self: end;
+}
+
+.hidden{
+    visibility: hidden;
+}

@@ -1,0 +1,29 @@
+/*Base*/
+
+/*Utilities*/
+@import "utilities/colorVariables";
+@import "utilities/flex";
+@import "base/reset";
+
+/*Components*/
+@import "components/backgrounds";
+@import "components/texts";
+@import "components/buttons";
+@import "components/specialFeatures";
+@import "components/slider";
+@import "components/overflows";
+
+/*Layout*/
+@import "layout/navbar";
+@import "layout/footer";
+@import "layout/forms";
+@import "layout/formSt1";
+@import "layout/formSt2";
+@import "layout/externalForm";
+@import "layout/appBodyContent";
+@import "layout/tables";
+@import "layout/autoOrganize";
+
+/*Views*/
+@import "views/index";
+@import "views/home";

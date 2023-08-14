@@ -1,0 +1,95 @@
+.formsContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.userLog{
+    width: 80%;
+    form{
+        border-top: 50px solid $darkYellow ;
+
+        .userLog__formImg{
+            grid-area: userLog__formImg;
+            img{
+                max-width: 100%;
+                height: 100%;
+            }
+        }
+        .userLog__formData{
+            grid-area: userLog__formData;
+            display: flex;
+            flex-direction: column;
+            padding: 30px;
+            img{
+                max-width: 150px;
+                align-self: center;
+            }
+        }
+    }
+}
+
+.userReg{
+    width: 80%;
+    form{
+        display: grid;
+        gap: 20px;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(1, auto);
+        grid-template-areas: "userReg__formImg        userReg__formData";
+
+        .userReg__formImg{
+            grid-area: userReg__formImg;
+            img{
+                max-width: 100%;
+                height: 100%;
+            }
+        }
+        .userReg__formData{
+            grid-area: userReg__formData;
+            display: flex;
+            flex-direction: column;
+            padding: 50px;
+            img{
+                max-width: 150px;
+                align-self: center;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 768px){
+
+    .userLog{
+        form{
+            grid-template-columns: 1fr;
+            grid-template-areas: 
+            "userLog__formImg"        
+            "userLog__formData";
+        }
+        .userLog__formImg{
+            img{
+                display: none;
+            }
+        }
+    }
+    .userReg{
+        form{
+            grid-template-columns: 1fr;
+            grid-template-areas: 
+            "userReg__formImg"        
+            "userReg__formData";
+        }
+        .userReg__formImg{
+            img{
+                display: none;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 320px){
+    .userLog, .userReg{
+        width: 90%;
+    }
+}

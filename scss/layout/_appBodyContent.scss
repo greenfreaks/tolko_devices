@@ -1,0 +1,10 @@
+.appBodyContent{
+    padding: 20px;
+}
+
+@media screen and (max-width: 768px){
+    .appBodyContent{
+        padding: 10px;
+        padding-top: 5%;
+    }
+}

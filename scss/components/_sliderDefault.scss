@@ -1,0 +1,156 @@
+.slider {
+    background-color: $extraLightGrey;
+    padding: 40px;
+
+    .container {
+        width: 90%;
+        min-height: 60vh;
+        max-width: 1200px;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    .slider__container {
+        display: grid;
+        grid-template-columns: 50px 1fr 50px;
+        align-items: center;
+        gap: 1em;
+
+        .slider__body {
+            grid-column: 2/3;
+            grid-row: 1/2;
+            opacity: 0;
+            pointer-events: none; //Impide que el cursor reconozca estos elementos (debido a que estos están encima de otros)
+            display: grid;
+            background-color: $extraLightGrey;
+            grid-template-columns: 1fr max-content;
+            // grid-template-columns: repeat(2, 1fr);
+            align-items: center;
+            transition: opacity 1.5s;
+
+            .slider__text {
+                max-width: 600px;
+
+                .subtitle {
+                    font-size: $generalFontSize;
+                }
+
+                .slider__review {
+                    font-weight: $generalFontSize;
+                    line-height: 1.7;
+                }
+            }
+
+            .slider__img {
+                width: 230px;
+                height: 230px;
+                border-radius: 50%;
+                object-fit: cover; //La imagen no se distorciona al modificar sus medidas
+                /* Las Siguientes lineas sirven para centrarla horizontalmente*/
+                display: block;
+                margin: auto;
+            }
+            // .slider__img {
+            //     width: 300px;
+            //     object-fit: cover; //La imagen no se distorciona al modificar sus medidas
+            //     /* Las Siguientes lineas sirven para centrarla horizontalmente*/
+            //     display: block;
+            //     margin: auto;
+            // }
+        }
+
+        .slider__body--show {
+            opacity: 1;
+            pointer-events: unset; //Permite mandar este elemento al principio.
+        }
+
+        .slider__arrow {
+            cursor: pointer;
+
+            &:nth-of-type(2) {
+                justify-self: end;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .slider {
+        .slider__container {
+            .slider__body {
+                grid-template-columns: 1fr;
+                grid-template-rows: max-content 1fr;
+
+                .slider__picture {
+                    grid-row: 1/2;
+
+                    .slider__img {
+                        width: 210px;
+                        height: 210px;
+                    }
+                }
+
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .slider {
+        .slider__container {
+            grid-template-columns: 25px 1fr 25px;
+
+            .slider__text{
+                .subtitle{
+                    font-size: $generalFontSize / 3;
+                    margin-bottom: 15px;
+                }
+                .slider__review{
+                    font-size: $generalFontSize / 2;
+                    line-height: 1.6;
+                }
+            }
+
+            .slider__picture {
+                .slider__img {
+                    width: 180px;
+                    height: 180px;
+                }
+            }
+
+            .slider__arrow {
+                width: 100%;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .slider {
+        .slider__container {
+            grid-template-columns: 25px 1fr 25px;
+
+            .slider__text{
+                .subtitle{
+                    font-size: 1rem;
+                    margin-bottom: 15px;
+                }
+                .slider__review{
+                    font-size: $generalFontSize / 2;
+                    line-height: 1.6;
+                }
+            }
+
+            .slider__picture {
+                .slider__img {
+                    width: 1px;
+                    height: 1px;
+                }
+            }
+
+            .slider__arrow {
+                width: 100%;
+            }
+        }
+    }
+}

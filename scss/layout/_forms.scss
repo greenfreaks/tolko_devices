@@ -1,0 +1,41 @@
+form {
+    width: 100%;
+    input {
+        text-align: center;
+        border: none;
+        border-bottom: 1px solid $black;
+        margin-bottom: 10px;
+        // text-transform: uppercase;
+
+        &:focus {
+            outline: none;
+            border-bottom: 2px solid $yellow;
+        }
+    }
+
+    textarea {
+        min-width: 100%;
+        max-width: 100%;
+        min-height: 150px;
+        max-height: 220px;
+        padding: 20px;
+
+        &:focus {
+            outline: none;
+            border: 2px solid $yellow;
+        }
+    }
+
+    select {
+        font-size: 1.2rem;
+        background-color: white;
+        border: none;
+        border-bottom: solid 2px $black;
+        margin-bottom: 15px;
+
+        &:focus {
+            outline: none;
+            // border-bottom: 2px solid $darkYellow;
+        }
+    }
+}

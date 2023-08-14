@@ -1,0 +1,133 @@
+footer {
+    bottom: 0;
+    background-color: $black;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .footer__logo {
+        text-align: center;
+        padding-top: 200px;
+        padding-bottom: 200px;
+
+        h2 {
+            max-width: 100%;
+            letter-spacing: 10px;
+            color: $white;
+        }
+    }
+
+    .footer__social {
+        display: none;
+        padding: 0 50px 200px;
+        width: 30%;
+        ul {
+            margin-top: 30px;
+            display: flex;
+            justify-content: space-around;
+            
+
+            li {
+                list-style: none;
+
+                a {
+                    color: $white;
+
+                    &:hover {
+                        color: $darkBlue;
+                    }
+                }
+            }
+        }
+    }
+
+    .footer__credits {
+        width: 100%;
+        background-color: $black;
+        padding: 30px 0;
+
+        ul {
+            display: flex;
+            justify-content: space-around;
+
+            li {
+                list-style: none;
+
+                p {
+                    font-size: $generalFontSize / 3;
+                }
+
+                a {
+                    text-decoration: none;
+                    color: $darkBlue;
+                }
+            }
+        }
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    footer {
+        .footer__logo {
+            padding: 120px 50px 0;
+
+            h2 {
+                font-size: $generalFontSize / 2;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 576px) {
+    footer {
+        .footer__logo {
+            padding: 120px 50px 0;
+        }
+
+        .footer__social {
+            width: 60%;
+            padding-bottom: 100px;
+        }
+    }
+}
+
+@media screen and (max-width: 480px) {
+    footer {
+        .footer__logo {
+            padding: 120px 30px 0;
+        }
+        .footer__credits{
+            padding: 10px;
+            ul{
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    }
+}
+@media screen and (max-width: 320px) {
+    footer {
+        .footer__logo {
+            text-align: center;
+            font-size: $generalFontSize /2;
+            padding: 100px 50px 0;
+            h2{
+                letter-spacing: 5px;
+            }
+        }
+        .footer__social {
+            padding-right: 0px;
+            padding-left: 0px;
+        }
+        .footer__credits{
+            padding: 10px;
+            ul{
+                display: block;
+                text-align: center;
+
+            }
+        }
+    }
+}

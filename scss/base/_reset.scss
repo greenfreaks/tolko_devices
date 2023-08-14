@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+body {
+    max-width: 100%;
+    font-size: $generalFontSize / 2;
+    overflow-x: hidden;
+}
+
+.bodyContent {
+    margin: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 0.9em;
+        scroll-behavior: smooth;
+    }
+
+
+}
+
+/*End Media Screen 768px*/
+
+@media screen and (max-width: 480px) {
+    body {
+        font-size: 0.9em;
+    }
+
+}
+
+/*End Media Screen 480px*/
+
+@media screen and (max-width: 320px) {
+    body {
+        font-size: 0.8rem;
+    }
+}
